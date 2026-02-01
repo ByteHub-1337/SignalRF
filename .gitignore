@@ -1,0 +1,19 @@
+# Build artifacts
+build/
+*.elf
+*.map
+*.partitions.bin
+*.bootloader.bin
+
+# IDE settings
+.vscode/
+.idea/
+*.code-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.bak
